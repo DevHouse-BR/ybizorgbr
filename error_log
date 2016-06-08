@@ -1,0 +1,6 @@
+[27-Feb-2016 12:41:45 America/Sao_Paulo] PHP Deprecated:  iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /home/ybizorgb/public_html/libraries/joomla/string/string.php on line 27
+[27-Feb-2016 12:41:45 America/Sao_Paulo] PHP Deprecated:  iconv_set_encoding(): Use of iconv.input_encoding is deprecated in /home/ybizorgb/public_html/libraries/joomla/string/string.php on line 28
+[27-Feb-2016 12:41:45 America/Sao_Paulo] PHP Deprecated:  iconv_set_encoding(): Use of iconv.output_encoding is deprecated in /home/ybizorgb/public_html/libraries/joomla/string/string.php on line 29
+[27-Feb-2016 12:42:42 America/Sao_Paulo] PHP Deprecated:  iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /home/ybizorgb/public_html/libraries/joomla/string/string.php on line 27
+[27-Feb-2016 12:42:42 America/Sao_Paulo] PHP Deprecated:  iconv_set_encoding(): Use of iconv.input_encoding is deprecated in /home/ybizorgb/public_html/libraries/joomla/string/string.php on line 28
+[27-Feb-2016 12:42:42 America/Sao_Paulo] PHP Deprecated:  iconv_set_encoding(): Use of iconv.output_encoding is deprecated in /home/ybizorgb/public_html/libraries/joomla/string/string.php on line 29
